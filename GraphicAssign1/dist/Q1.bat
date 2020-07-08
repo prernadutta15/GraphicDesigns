@@ -1,0 +1,1 @@
+java -jar "GraphicAssign1.jar"
